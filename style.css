@@ -778,7 +778,9 @@
             font-weight: 900;
             margin-bottom: 20px;
             display: block;
-          directions: Itr;
+            directions: Itr;
+            text-align: left;
+            unicode-bidi: plaintest;
         }
 
         .achievement-text {
